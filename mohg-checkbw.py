@@ -29,7 +29,7 @@ Options:
 # nsx configurations
 nsx_manager = "manager2.mgrn.net"
 nsx_username = "admin"
-nsx_password = "VMware1!"
+nsx_password = ""
 
 # NSX-T API URLs
 url_base = "https://"
